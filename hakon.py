@@ -16,7 +16,13 @@ def time_end(start_var):
 start = time_start()
 
 my_var = 1
-while my_var < 2000000000:
+while my_var < 200:
     my_var += 1
 
 time_end(start)
+
+
+
+
+
+
